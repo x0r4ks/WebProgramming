@@ -7,6 +7,11 @@ body {
     /*font-family: 'Roboto','Brush Script MT', 'Tahoma','Arial';*/
     font-family: 'Roboto';
     /*font-weight: 100;*/
+
+    background-color:azure;
+    background-image:url(./img/texture.jpg);
+    background-attachment:fixed;
+      
 }
 
 
@@ -23,6 +28,9 @@ h2 {
 p {
     font-size: 18px;
     text-align: justify;
+    word-wrap:anywhere;
+    background-color:#baf8f3c4;
+    
 }
 
 /*
@@ -69,3 +77,14 @@ h1 + h2 {
 
 
 
+img {
+    align-content: center;
+    border:solid;
+    border-width:1px;
+    width:30%;
+/*    height:30%;*/
+
+    margin:0% 5% 2% 0%;
+    float:left;
+   
+}
