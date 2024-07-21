@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266.77 211.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5ffff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 9px;
+      }
+
+      .cls-4, .cls-2, .cls-5, .cls-6 {
+        fill: #000;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: CascadiaMono-Roman, 'Cascadia Mono';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-2" x="136.5" y="170.88" width="42.71" height="1.24" transform="translate(-75.03 161.85) rotate(-45)"/>
+    <polygon class="cls-2" points="180.87 148.49 170.51 153.54 175.81 158.84 180.87 148.49"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-2" x="36.75" y="53.1" width="17.69" height=".79" transform="translate(99.09 7.89) rotate(90)"/>
+      <polygon class="cls-2" points="45.6 66.97 47.99 62.45 43.21 62.45 45.6 66.97"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="53.32" y="57.05" width="17.69" height=".79" transform="translate(4.72 119.61) rotate(-90)"/>
+      <polygon class="cls-2" points="62.16 43.97 59.77 48.48 64.55 48.48 62.16 43.97"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-2" x="183.56" y="52.85" width="17.69" height=".79" transform="translate(245.66 -139.16) rotate(90)"/>
+      <polygon class="cls-2" points="192.41 66.73 194.8 62.21 190.02 62.21 192.41 66.73"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="200.13" y="56.81" width="17.69" height=".79" transform="translate(151.77 266.18) rotate(-90)"/>
+      <polygon class="cls-2" points="208.97 43.73 206.58 48.24 211.36 48.24 208.97 43.73"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-2" x="99.92" y="119.88" width="42.71" height="1.24"/>
+      <polygon class="cls-2" points="153.82 120.5 142.92 116.75 142.92 124.25 153.82 120.5"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="109.47" y="93.91" width="42.71" height="1.24" transform="translate(261.65 189.07) rotate(180)"/>
+      <polygon class="cls-2" points="98.28 94.53 109.18 98.28 109.18 90.78 98.28 94.53"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-2" x="204.31" y="162.82" width="42.71" height="1.24" transform="translate(181.66 -111.7) rotate(45)"/>
+    <polygon class="cls-2" points="248.68 186.45 243.62 176.09 238.32 181.39 248.68 186.45"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-1" x="153.19" y="67.24" width="96.42" height="80.82"/>
+      <g>
+        <rect class="cls-3" x="160.02" y="124.56" width="82.59" height="19.19"/>
+        <text class="cls-4" transform="translate(172.31 136.01)"><tspan x="0" y="0">Аккумулятор</tspan></text>
+      </g>
+    </g>
+    <text class="cls-5" transform="translate(160.39 89.9)"><tspan x="0" y="0">Арифметическо-</tspan><tspan x="0" y="12">логическое</tspan><tspan x="0" y="24">устройство</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-1" x=".5" y="67.24" width="99.21" height="80.82"/>
+    <text class="cls-5" transform="translate(20.81 103.71)"><tspan x="0" y="0">Устройство</tspan><tspan x="0" y="12">Управления</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-1" x="128.09" y="185.62" width="50.23" height="25"/>
+    <text class="cls-5" transform="translate(141.49 200.18)"><tspan x="0" y="0">ВВОД</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-1" x="216.04" y="185.62" width="50.23" height="25"/>
+    <text class="cls-5" transform="translate(226.51 200.18)"><tspan x="0" y="0">ВЫВОД</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-1" x="14.25" y=".5" width="216" height="43"/>
+    <text class="cls-6" transform="translate(90.61 25.7)"><tspan x="0" y="0">ПАМЯТЬ</tspan></text>
+  </g>
+</svg>

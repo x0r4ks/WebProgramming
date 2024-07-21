@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 543 437.74">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 41.93px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #000;
+        font-family: CascadiaMono-Roman, 'Cascadia Mono';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        font-size: 13.75px;
+      }
+
+      .cls-8 {
+        fill: #fcc67c;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: .5px;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 11px;
+      }
+
+      .cls-9 {
+        fill: #6968d7;
+      }
+
+      .cls-4 {
+        font-size: 16.36px;
+      }
+
+      .cls-5 {
+        font-size: 21px;
+      }
+
+      .cls-6 {
+        font-size: 8.12px;
+      }
+
+      .cls-10 {
+        fill: #00b6e2;
+      }
+
+      .cls-11 {
+        fill: #f15a24;
+      }
+
+      .cls-7 {
+        font-size: 9.16px;
+      }
+
+      .cls-12 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-13 {
+        fill: #4d4d4d;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-12" x="1.5" y="49.24" width="319" height="363"/>
+    <text class="cls-1" transform="translate(1.87 39.5) scale(.88 1)"><tspan x="0" y="0">AMD K10</tspan></text>
+    <rect class="cls-10" x="25" y="57.74" width="58" height="58"/>
+    <rect class="cls-8" x="25" y="115.74" width="58" height="58"/>
+    <rect class="cls-8" x="96" y="115.74" width="58" height="58"/>
+    <rect class="cls-8" x="162" y="115.74" width="58" height="58"/>
+    <rect class="cls-8" x="231" y="115.74" width="58" height="58"/>
+    <rect class="cls-10" x="96" y="57.74" width="58" height="58"/>
+    <rect class="cls-10" x="162" y="57.74" width="58" height="58"/>
+    <rect class="cls-10" x="231" y="57.74" width="58" height="58"/>
+    <text class="cls-4" transform="translate(26.13 93.46) scale(.88 1)"><tspan x="0" y="0">Core 0</tspan></text>
+    <text class="cls-4" transform="translate(99.13 93.46) scale(.88 1)"><tspan x="0" y="0">Core 1</tspan></text>
+    <text class="cls-4" transform="translate(165.13 93.46) scale(.88 1)"><tspan x="0" y="0">Core 2</tspan></text>
+    <text class="cls-4" transform="translate(231.13 93.46) scale(.88 1)"><tspan x="0" y="0">Core 3</tspan></text>
+    <text class="cls-3" transform="translate(27.13 144.46) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <text class="cls-3" transform="translate(100.13 144.46) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <text class="cls-3" transform="translate(166.13 144.46) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <text class="cls-3" transform="translate(235.13 144.46) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <rect class="cls-8" x="25" y="179.74" width="58" height="58"/>
+    <rect class="cls-8" x="96" y="179.74" width="58" height="58"/>
+    <rect class="cls-8" x="162" y="179.74" width="58" height="58"/>
+    <rect class="cls-8" x="231" y="179.74" width="58" height="58"/>
+    <rect class="cls-8" x="26" y="243.74" width="263" height="46"/>
+    <rect class="cls-11" x="30" y="350.74" width="128" height="46"/>
+    <rect class="cls-9" x="166" y="350.74" width="128" height="46"/>
+    <text class="cls-3" transform="translate(27.13 206.46) scale(.88 1)"><tspan x="0" y="0">512KB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <text class="cls-3" transform="translate(47.13 368.46) scale(.88 1)"><tspan x="0" y="0">Memory</tspan><tspan x="0" y="13.2">Controllers</tspan></text>
+    <text class="cls-3" transform="translate(181.13 368.46) scale(.88 1)"><tspan x="0" y="0">Hyper</tspan><tspan x="0" y="13.2">Transport 3.0</tspan></text>
+    <text class="cls-3" transform="translate(101.13 206.46) scale(.88 1)"><tspan x="0" y="0">512KB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <text class="cls-5" transform="translate(89.13 271.46) scale(.88 1)"><tspan x="0" y="0">2MB L3 Cache</tspan></text>
+    <rect class="cls-8" x="25.5" y="301.51" width="263.5" height="38.22"/>
+    <text class="cls-2" transform="translate(60.35 316.92) scale(1.04 1)"><tspan x="0" y="0">System Request Interface</tspan><tspan x="0" y="16.5">Crossbar Switch</tspan></text>
+    <text class="cls-3" transform="translate(169.13 206.46) scale(.88 1)"><tspan x="0" y="0">512KB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <text class="cls-3" transform="translate(236.13 206.46) scale(.88 1)"><tspan x="0" y="0">512KB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <g>
+      <polygon class="cls-13" points="180.99 409.92 176.74 399.89 172.5 409.92 175.76 409.92 175.76 433.74 177.72 433.74 177.72 409.92 180.99 409.92"/>
+      <polygon class="cls-13" points="182.51 423.71 186.76 433.74 191 423.71 187.74 423.71 187.74 399.89 185.78 399.89 185.78 423.71 182.51 423.71"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="214.99 409.92 210.74 399.89 206.5 409.92 209.76 409.92 209.76 433.74 211.72 433.74 211.72 409.92 214.99 409.92"/>
+      <polygon class="cls-13" points="216.51 423.71 220.76 433.74 225 423.71 221.74 423.71 221.74 399.89 219.78 399.89 219.78 423.71 216.51 423.71"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="248.99 409.92 244.74 399.89 240.5 409.92 243.76 409.92 243.76 433.74 245.72 433.74 245.72 409.92 248.99 409.92"/>
+      <polygon class="cls-13" points="250.51 423.71 254.76 433.74 259 423.71 255.74 423.71 255.74 399.89 253.78 399.89 253.78 423.71 250.51 423.71"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="276.99 409.92 272.74 399.89 268.5 409.92 271.76 409.92 271.76 433.74 273.72 433.74 273.72 409.92 276.99 409.92"/>
+      <polygon class="cls-13" points="278.51 423.71 282.76 433.74 287 423.71 283.74 423.71 283.74 399.89 281.78 399.89 281.78 423.71 278.51 423.71"/>
+    </g>
+    <polygon class="cls-13" points="48.74 410.4 52 410.4 47.76 400.22 43.52 410.4 46.78 410.4 46.78 427.56 43.52 427.56 47.76 437.74 52 427.56 48.74 427.56 48.74 410.4"/>
+    <polygon class="cls-13" points="143.74 410.4 147 410.4 142.76 400.22 138.52 410.4 141.78 410.4 141.78 427.56 138.52 427.56 142.76 437.74 147 427.56 143.74 427.56 143.74 410.4"/>
+  </g>
+  <g>
+    <rect class="cls-12" x="338.5" y="59.24" width="203" height="290"/>
+    <text class="cls-1" transform="translate(355.87 35.5) scale(.88 1)"><tspan x="0" y="0">AMD K8</tspan></text>
+    <rect class="cls-10" x="376.5" y="69.24" width="58" height="58"/>
+    <rect class="cls-10" x="447.5" y="69.24" width="58" height="58"/>
+    <text class="cls-4" transform="translate(377.63 104.96) scale(.88 1)"><tspan x="0" y="0">Core 0</tspan></text>
+    <text class="cls-4" transform="translate(450.63 104.96) scale(.88 1)"><tspan x="0" y="0">Core 1</tspan></text>
+    <rect class="cls-8" x="376.5" y="133.24" width="58" height="58"/>
+    <rect class="cls-8" x="447.5" y="133.24" width="58" height="58"/>
+    <text class="cls-3" transform="translate(378.63 161.96) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <text class="cls-3" transform="translate(451.63 161.96) scale(.88 1)"><tspan x="0" y="0">64KB</tspan><tspan x="0" y="13.2">L1D Cache</tspan></text>
+    <rect class="cls-8" x="375.5" y="197.24" width="58" height="58"/>
+    <rect class="cls-8" x="446.5" y="197.24" width="58" height="58"/>
+    <text class="cls-3" transform="translate(377.63 225.96) scale(.88 1)"><tspan x="0" y="0">1MB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <text class="cls-3" transform="translate(450.63 225.96) scale(.88 1)"><tspan x="0" y="0">1MB</tspan><tspan x="0" y="13.2">L2 Cache</tspan></text>
+    <rect class="cls-8" x="346.5" y="264.51" width="188.5" height="25.45"/>
+    <text class="cls-7" transform="translate(371.43 274.77) scale(1.12 1)"><tspan x="0" y="0">System Request Interface</tspan><tspan x="0" y="10.99">Crossbar Switch</tspan></text>
+    <rect class="cls-11" x="343" y="297.74" width="94.55" height="33.98"/>
+    <rect class="cls-9" x="443.45" y="297.74" width="94.55" height="33.98"/>
+    <text class="cls-6" transform="translate(355.66 310.83) scale(.88 1)"><tspan x="0" y="0">Memory</tspan><tspan x="0" y="9.75">Controllers</tspan></text>
+    <text class="cls-6" transform="translate(454.63 310.83) scale(.88 1)"><tspan x="0" y="0">Hyper</tspan><tspan x="0" y="9.75">Transport 3.0</tspan></text>
+    <g>
+      <polygon class="cls-13" points="454.53 341.46 451.39 334.05 448.26 341.46 450.67 341.46 450.67 359.05 452.11 359.05 452.11 341.46 454.53 341.46"/>
+      <polygon class="cls-13" points="455.65 351.64 458.79 359.05 461.92 351.64 459.51 351.64 459.51 334.05 458.06 334.05 458.06 351.64 455.65 351.64"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="479.64 341.46 476.5 334.05 473.37 341.46 475.78 341.46 475.78 359.05 477.23 359.05 477.23 341.46 479.64 341.46"/>
+      <polygon class="cls-13" points="480.76 351.64 483.9 359.05 487.03 351.64 484.62 351.64 484.62 334.05 483.18 334.05 483.18 351.64 480.76 351.64"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="504.75 341.46 501.62 334.05 498.48 341.46 500.89 341.46 500.89 359.05 502.34 359.05 502.34 341.46 504.75 341.46"/>
+      <polygon class="cls-13" points="505.88 351.64 509.01 359.05 512.15 351.64 509.74 351.64 509.74 334.05 508.29 334.05 508.29 351.64 505.88 351.64"/>
+    </g>
+    <g>
+      <polygon class="cls-13" points="525.43 341.46 522.3 334.05 519.16 341.46 521.58 341.46 521.58 359.05 523.02 359.05 523.02 341.46 525.43 341.46"/>
+      <polygon class="cls-13" points="526.56 351.64 529.69 359.05 532.83 351.64 530.42 351.64 530.42 334.05 528.97 334.05 528.97 351.64 526.56 351.64"/>
+    </g>
+    <polygon class="cls-13" points="356.84 341.8 359.25 341.8 356.12 334.29 352.99 341.8 355.4 341.8 355.4 354.48 352.99 354.48 356.12 362 359.25 354.48 356.84 354.48 356.84 341.8"/>
+    <polygon class="cls-13" points="427.01 341.8 429.42 341.8 426.29 334.29 423.16 341.8 425.57 341.8 425.57 354.48 423.16 354.48 426.29 362 429.42 354.48 427.01 354.48 427.01 341.8"/>
+  </g>
+</svg>

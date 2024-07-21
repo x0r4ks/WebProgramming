@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0A8C4BE-E051-4A94-9D26-033EFE3BF0B4}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{173175D1-532A-4C59-AA22-DC2CDBF97E34}"
+	ProjectSection(SolutionItems) = preProject
+		assets\image\1-th-1-cpu.svg = assets\image\1-th-1-cpu.svg
+		assets\image\2-th-1-cpu.png = assets\image\2-th-1-cpu.png
+		assets\image\2-th-2-cpu.svg = assets\image\2-th-2-cpu.svg
+		assets\image\4-cpu-mb.png = assets\image\4-cpu-mb.png
+		assets\image\cache.svg = assets\image\cache.svg
+		assets\image\cpuCache.svg = assets\image\cpuCache.svg
+		assets\image\deneb.png = assets\image\deneb.png
+		assets\image\ext_vs_int.svg = assets\image\ext_vs_int.svg
+		assets\image\k10-vs-k8.gif = assets\image\k10-vs-k8.gif
+		assets\image\newhistory.png = assets\image\newhistory.png
+		assets\image\prehistory.png = assets\image\prehistory.png
+		assets\texture.jpg = assets\texture.jpg
+		assets\image\von-neumann.svg = assets\image\von-neumann.svg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{D2242323-6238-4416-8330-C7CB4EB70141}"
+	ProjectSection(SolutionItems) = preProject
+		assets\css\style.css = assets\css\style.css
+		assets\css\text_decoration.css = assets\css\text_decoration.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pages", "pages", "{A26C71AD-EFB3-48CB-A2DC-AD52186923FC}"
+	ProjectSection(SolutionItems) = preProject
+		pages\architectures.html = pages\architectures.html
+		pages\cpuDetail.html = pages\cpuDetail.html
+		pages\cpuMoreDetail.html = pages\cpuMoreDetail.html
+		pages\end.html = pages\end.html
+		pages\introduction.html = pages\introduction.html
+		pages\kernel.html = pages\kernel.html
+		pages\ram.html = pages\ram.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{173175D1-532A-4C59-AA22-DC2CDBF97E34} = {A0A8C4BE-E051-4A94-9D26-033EFE3BF0B4}
+		{D2242323-6238-4416-8330-C7CB4EB70141} = {A0A8C4BE-E051-4A94-9D26-033EFE3BF0B4}
+		{A26C71AD-EFB3-48CB-A2DC-AD52186923FC} = {A0A8C4BE-E051-4A94-9D26-033EFE3BF0B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EEC4214-DAC4-4558-B577-64F34331D447}
+	EndGlobalSection
+EndGlobal

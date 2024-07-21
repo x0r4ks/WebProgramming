@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import './text_decoration.css';
+
+body {
+    font-family: Montserrat;
+    background-color: aliceblue;
+}
+
+ul {
+    color: blueviolet;
+/*    margin: 0% 15% 0% 15%;*/
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+p {
+    
+    margin: 0% 15% 0% 15%;
+    word-wrap:break-word;
+    font-size: 11.5pt;
+}
+
+blockquote {
+    margin: 0% 15% 0% 15%;
+    word-wrap: break-word;
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: 360;
+    
+}
+
+img {
+    align-content: center;
+    border: solid;
+    border-width: 1px;
+    width: 45%;
+    float: right;
+    margin: 0% 5% 2% 0%;
+}
