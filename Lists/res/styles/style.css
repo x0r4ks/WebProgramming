@@ -1,0 +1,23 @@
+body {
+    font-size: 32px;
+    background-color: lightgreen;
+}
+
+ol {
+    list-style-type: lower-greek;
+}
+
+ul {
+    list-style-type: disc;
+    color: blue;
+    text-align: justify;
+    list-style-position: inside;
+}
+
+.mark1 {
+    list-style-image: url("../img/tag.svg");
+}
+
+
+
+
