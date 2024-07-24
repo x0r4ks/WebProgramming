@@ -1,23 +1,51 @@
 body {
     font-size: 32px;
-    background-color: lightgreen;
 }
 
 ol {
-    list-style-type: lower-greek;
+    list-style-type: upper-roman;
 }
 
-ul {
-    list-style-type: disc;
-    color: blue;
-    text-align: justify;
-    list-style-position: inside;
+li > ol {
+    list-style-type: lower-latin;
 }
 
-.mark1 {
-    list-style-image: url("../img/tag.svg");
+ul > li {
+    list-style-image: url("./circle.png");
 }
 
+ul > li > ul > li {
+    list-style-image: url("./check.png");
+}
 
+ul > li > ul > li > ul > li {
+    list-style-image: url("./check3.png");
+}
 
+.mark_check2 {
+    list-style-image: url("./check2.png");
+}
 
+.red_ {
+    color: red;
+}
+
+.orange_ {
+    color: orange;
+}
+
+.green_ {
+    color: green;
+}
+
+.cyan_ {
+    color: cyan;
+}
+
+.purple_ {
+    color: purple;
+}
+
+li {
+    color: black;
+}
