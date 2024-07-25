@@ -48,3 +48,36 @@ img {
     float: right;
     margin: 0% 5% 2% 0%;
 }
+
+table, td, th {
+    border: 1px solid #aeaed3;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+table caption {
+
+    font-style: italic;
+}
+
+table th {
+    background-color: #6b5fb5;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2em; 
+}
+
+table td{
+    padding: 5px 10px;
+    font-weight: 400;
+    color: #333;
+    font-size: 1em;
+}
+
+

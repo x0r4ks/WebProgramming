@@ -22,8 +22,10 @@
 }
 
 .nextTXTBtn {
-    margin: 0% 0% 0% 95%;
+    /* margin: 0% 0% 0% 95%; */
+    float:right
 }
+
 
 .prevTXTBtn {
     margin: 0% 5% 0% 0%;
