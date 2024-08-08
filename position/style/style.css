@@ -1,0 +1,17 @@
+body {
+    font-size: 20px;
+}
+
+.logo {
+    border: solid 3px;
+    float: right;
+    top: 0px;
+    right: 0px;
+    position: relative;
+}
+
+.header {
+    background-color: silver;
+    position: sticky;
+    top:0px;
+}
